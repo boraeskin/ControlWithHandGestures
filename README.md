@@ -1,5 +1,5 @@
 # Hand Gesture Volume and Brightness Control
-
+![Image](https://github.com/user-attachments/assets/896bfd05-d290-4a61-8d54-656a94980ae6)
 ## Description
 
 The **Hand Gesture Volume and Brightness Control** is a **Computer Vision** project that uses **OpenCV** and **Mediapipe** to control system volume and screen brightness using hand gestures. The program detects hand landmarks and uses the distance between the thumb and index finger to adjust volume (left hand) and brightness (right hand). It also includes a feature to exit the program by bringing both thumbs close together.
