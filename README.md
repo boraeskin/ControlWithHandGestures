@@ -49,8 +49,8 @@ pip install opencv-python mediapipe pycaw screen-brightness-control comtypes
 1. **Clone or Download the Project**:
    - Clone this repository or download it as a ZIP file.
 
-   ``bash
-   git clone that i will enter later 
+   ```bash
+   https://github.com/boraeskin/ControlWithHandGestures
 
 2. **Run the Script:**:
 
